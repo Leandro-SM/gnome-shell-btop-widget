@@ -1,0 +1,9 @@
+{
+  "uuid": "btop-widget@leandro-sm.github.io",
+  "name": "Btop Widget",
+  "description": "Exibe um widget de terminal estilo btop na área de trabalho do GNOME Shell. Renderiza a saída do btop em um painel translúcido ancorado ao desktop, com atualização periódica e suporte a Wayland.",
+  "shell-version": ["45", "46", "47"],
+  "url": "https://github.com/Leandro-SM/gnome-shell-btop-widget",
+  "settings-schema": "org.gnome.shell.extensions.btop-widget",
+  "gettext-domain": "btop-widget"
+}

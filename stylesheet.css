@@ -1,0 +1,12 @@
+.btop-widget-container {
+    background-color: rgba(0, 0, 0, 0.55);
+    border-radius: 12px;
+    padding: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.btop-widget-label {
+    font-family: "JetBrains Mono", "Fira Code", "Ubuntu Mono", monospace;
+    font-size: 12px;
+    color: #e0e0e0;
+}

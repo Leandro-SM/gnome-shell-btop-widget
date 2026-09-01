@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.btop-widget"
+          path="/org/gnome/shell/extensions/btop-widget/">
+    <key name="margin-x" type="i">
+      <default>40</default>
+      <summary>Margem horizontal</summary>
+      <description>Distância em pixels a partir da borda esquerda do monitor primário.</description>
+    </key>
+    <key name="margin-y" type="i">
+      <default>40</default>
+      <summary>Margem vertical</summary>
+      <description>Distância em pixels a partir do topo do monitor primário.</description>
+    </key>
+  </schema>
+</schemalist>
