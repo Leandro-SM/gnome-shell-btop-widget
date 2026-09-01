@@ -18,7 +18,7 @@ export default class BtopWidgetExtension extends Extension {
     enable() {
         this._settings = this.getSettings();
 
-        this._container = new St.Bopin({
+        this._container = new St.Bin({
             style_class: 'btop-widget-container',
             reactive: false,
             can_focus: false,
