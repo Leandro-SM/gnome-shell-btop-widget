@@ -1,0 +1,17 @@
+# GNOME Shell / GJS
+*.compiled
+schemas/gschemas.compiled
+
+# Pacotes gerados
+*.zip
+*.shell-extension.zip
+
+# Editores / SO
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+
+# Logs
+*.log
